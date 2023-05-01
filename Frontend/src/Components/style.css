@@ -1,0 +1,9 @@
+.nav_link {
+  font-size: 20px;
+  padding: 20px;
+}
+
+.nav_link:hover {
+  color: blue;
+  cursor: pointer;
+}
